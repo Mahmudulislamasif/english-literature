@@ -1,0 +1,29 @@
+
+.headings
+{
+    color: purple;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+span{
+    font-weight: 700;
+}
+.list-of-writter
+{
+ background-color: purple;
+ color: white;
+ padding: 1.5rem;
+}
+.describe
+{
+    background-image: linear-gradient(rgb(26, 179, 26),rgb(4, 218, 4));
+    color: black;
+    padding: 2.5rem;
+    width: 100%;
+    height: 100%;
+}
+.image-name img
+{
+    border: 2px solid red;
+    width: 100%;
+}
